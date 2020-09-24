@@ -122,10 +122,12 @@ class _PinterestItem extends StatelessWidget {
   final int index;
   @override
   Widget build(BuildContext context) {
+    final appTheme = Provider.of<ThemeChanger>(context).currentTheme;
     return new Container(
         margin: EdgeInsets.all(5),
         decoration: BoxDecoration(
-            color: Colors.black,
+            // color: Colors.black,
+            color: appTheme.accentColor,
             borderRadius: BorderRadius.all(Radius.circular(30))),
         child: new Center(
           child: new CircleAvatar(

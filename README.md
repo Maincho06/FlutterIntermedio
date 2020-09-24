@@ -14,4 +14,10 @@ flutter package get
 
 ![Menu](drawer.jpg)
 ![Home](home.jpg)
+![Light](light.jpg)
+![Custom](custom.jpg)
 
+## Sub vistas
+
+![Animated1](rectangulo.gif)
+![Animated2](animated.gif)
