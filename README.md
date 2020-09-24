@@ -1,10 +1,11 @@
-# disenos
+# Flutter Intermedio
 
-A new Flutter project.
+Este proyecto contiene varias vistas donde en cada una de ellas se toca un tema en especial, tales como:
+Sliders, animaciones, customPainter, dark theme, light theme, manejo de providers y entre más cosas .
 
-## Getting Started
+## Instalación
 
-This project is a starting point for a Flutter application.
+- flutter package get
 
 A few resources to get you started if this is your first Flutter project:
 
